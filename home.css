@@ -1,0 +1,20 @@
+
+
+nav a {
+   float: left;
+   display: block;
+   color: #070505;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: x-large;
+}
+
+
+ .list-items ul li a{
+    color: #282c3f;
+ }
+ .list-items ul li a:hover{
+    transform: translateY(-1px);
+ }
+  
