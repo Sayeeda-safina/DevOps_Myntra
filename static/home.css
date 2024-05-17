@@ -8,13 +8,17 @@ nav a {
    padding: 14px 16px;
    text-decoration: none;
    font-size: x-large;
+   justify-content: flex-start;
 }
 
 
  .list-items ul li a{
-    color: #282c3f;
+    color: black;
  }
  .list-items ul li a:hover{
     transform: translateY(-1px);
  }
-  
+
+ 
+ 
+ 
